@@ -1,0 +1,7 @@
+{
+  "name": "Smith",
+  "viz": "survey-01.svg",
+  "vizData": {
+    "$ref": "survey.example.json"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "main template datasheet container": {
+    "p1-dot-plot": [
+      [ "Personality Trait", "color", "Rashad Nash" ],
+      [ "Assertive", "score", "55" ],
+      [ "Resilient", "score", "67" ],
+      [ "Adaptable", "score", "81" ],
+      [ "Empathetic", "score", "77" ],
+      [ "Creative", "score", "55" ],
+      [ "Proactive", "score", "61" ],
+      [ "Analytical", "score", "55" ],
+      [ "Meticulous", "score", "61" ],
+      [ "Emotionally intelligent", "score", "45" ],
+      [ "Reliable", "score", "55" ],
+      [ "Organized", "score", "48" ],
+      [ "Diplomatic", "score", "64" ],
+      [ "Inspirational", "score", "57" ],
+      [ "Ethical", "score", "77" ],
+      [ "Inclusive", "score", "60" ],
+      [ "Assertive", "BM", "37" ],
+      [ "Resilient", "BM", "45" ],
+      [ "Adaptable", "BM", "51" ],
+      [ "Empathetic", "BM", "81" ],
+      [ "Creative", "BM", "78" ],
+      [ "Proactive", "BM", "65" ],
+      [ "Analytical", "BM", "50" ],
+      [ "Meticulous", "BM", "91" ],
+      [ "Emotionally intelligent", "BM", "43" ],
+      [ "Reliable", "BM", "88" ],
+      [ "Organized", "BM", "95" ],
+      [ "Diplomatic", "BM", "75" ],
+      [ "Inspirational", "BM", "42" ],
+      [ "Ethical", "BM", "65" ],
+      [ "Inclusive", "BM", "87" ]
+    ],
+    "p2-pie-top": [
+      [ "category", "Rashad Nash" ],
+      [ "Graphic", "77" ],
+      [ "Data-driven", "15" ],
+      [ "Storytelling", "8" ]
+    ],
+    "p2-pie right": [
+      [ "category", "Rashad Nash" ],
+      [ "Direct", "75" ],
+      [ "Diplomatic", "11" ],
+      [ "Expressive", "14" ]
+    ],
+    "p2-pie left": [
+      [ "category", "Rashad Nash" ],
+      [ "Formal", "59" ],
+      [ "Informal", "41" ]
+    ],
+    "p3-left": [
+      [ "Category", "Capacity to effectively persuade and influence", "Skill in handling sensitive or delicate situations tactfully", "Skill in building and maintaining professional relationships", "Capacity to work effectively in a team environment", "Ability to manage and resolve conflicts in a constructive manner", "Skill in presenting compelling arguments and supporting evidence" ],
+      [ "benchmark", "70", "80", "90", "75", "75", "95" ],
+      [ "score", "91", "57", "55", "57", "71", "77" ]
+    ],
+    "p3-right": [
+      [ "Category", "Skill in negotiating and finding mutually beneficial solutions", "Willingness to share knowledge and resources with colleagues", "Ability to see situations from different perspectives", "Ability to provide appropriate feedback and ask relevant questions", "Ability to leverage networks for personal and organizational growth", "Ability to build consensus and gain support for ideas or initiatives" ],
+      [ "benchmark", "55", "74", "88", "90", "45", "95" ],
+      [ "score", "77", "74", "58", "76", "57", "72" ]
+    ],
+    "Text": [
+      [ "Employee", "Year", "Job Match", "Top pie label", "Left Pie label", "Right pie label", "Communication Styles", "Interpersonal skills" ],
+      [ "Rashad Nash", "2023", "68%", "Visual", "Verbal", "Written", "Rashad Nash's survey results indicate that he has a slightly higher preference for a formal tone in his communications, scoring 59% in that area. However, he also shows a preference for an informal tone with a score of 41%. In terms of visual communication, Rashad leans towards using graphics with a score of 77%, while being less inclined towards using data-driven visuals with a score of 15%. Lastly, in terms of verbality, Rashad tends to be direct with a score of 75%, while also being somewhat diplomatic with a score of 11% and expressive with a score of 14%.\n\nIn summary, Rashad Nash prefers a combination of both formal and informal tones in his communications, with a greater inclination towards using a formal tone. He favors using graphics for visual communication, but has a lower preference for data-driven visuals and storytelling. When it comes to verbality, Rashad tends to be direct in his communication style, but also shows some diplomatic and expressive tendencies.", "The Interpersonal Skills survey assesses an individual's proficiency in various social attributes, including their ability to persuade, display tactfulness, build relationships, work effectively within a team, handle conflicts, engage in persuasive argumentation, negotiate collaboratively, exhibit empathy, ask insightful inquiries, network, and foster consensus. The survey provides a comprehensive view of the participant's interpersonal competencies across diverse scenarios and interactions." ],
+      [ "", "", "", "", "", "", "", "" ],
+      [ "", "", "", "", "", "", "", "" ]
+    ]
+  }
+}
